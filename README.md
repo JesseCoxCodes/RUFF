@@ -44,7 +44,7 @@ Anus empowers users to create AI agents that can:
 
 Whether you're a developer looking to build AI-powered applications, a researcher exploring agent-based systems, or an enthusiast interested in the latest AI technologies, Anus provides the tools and flexibility you need to succeed.
 
-## 💡 Why Anus?
+## 💡 Why RUFF?
 
 - **Truly Open Source**: No barriers, no invite codes, just pure open-source goodness
 - **Hybrid Architecture**: Combines single-agent simplicity with multi-agent power
