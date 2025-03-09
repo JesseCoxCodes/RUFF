@@ -1,4 +1,4 @@
-# 🍑 Anus: Autonomous Networked Utility System
+# 🧩 RUFF: Really Unbelievably Funny Fantastic
 
 <p align="center">
   <img src="assets/anus_logo.png" alt="Anus AI Logo" width="200"/>
